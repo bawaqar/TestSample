@@ -6,8 +6,8 @@
     <ProjectGuid>{E90FBAF1-7E47-4F9C-91A4-6D8BCC17051C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OrderFunnelSample</RootNamespace>
-    <AssemblyName>OrderFunnelSample</AssemblyName>
+    <RootNamespace>TestSample</RootNamespace>
+    <AssemblyName>TestSample</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

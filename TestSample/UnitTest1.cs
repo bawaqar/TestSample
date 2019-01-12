@@ -10,6 +10,7 @@ namespace OrderFunnelSample
         public void TestMethod1()
         {
             Console.WriteLine("sdf");
+            Console.WriteLine("dfgdf");
         }
     }
 }
