@@ -10,7 +10,7 @@ namespace OrderFunnelSample
         public void TestMethod1()
         {
             Console.WriteLine("Creating PR");
-            Console.WriteLine("PR1");
+            Console.WriteLine("PR2");
         }
     }
 }
