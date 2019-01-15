@@ -9,8 +9,8 @@ namespace OrderFunnelSample
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("seedf");
-            Console.WriteLine("dfgdf");
+            Console.WriteLine("pr3");
+            Console.WriteLine("pr3");
         }
     }
 }
